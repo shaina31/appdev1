@@ -1,0 +1,39 @@
+Shaina Karillyn G. Pagarigan
+Bachelor of Science in Information Systems – 3
+
+Assignment: Exploring Emerging Technologies
+
+Technology: Virtual Reality (VR)
+Purpose: Virtual Reality creates a complete virtual environment for its users. It immerses a user in a virtual workplace and simulates a given scenario, which is beneficial to them as it allows them to engage with things digitally using technology.
+Usage: Virtual reality can be used in training and simulations, interactive learning experience, prototyping and development, as well as in collaborations in the education and IT industries.
+•	Education: Students can practice and hone their computing and technical skills by creating fantastic virtual inventions using the technology skills that they have acquired, and then experiencing and putting them into practice via virtual reality. 
+•	IT Industry: VR can be used to visualize or simulate a model that a company is trying to create. VR technology enables virtual collaboration on projects/products, thus improving planning, development, and communication processes.
+Example: Virtual Reality can immerse a user into an environment he/she have never been to before, allowing them to see places and experience things by just using VR Headsets or VR Box for example.
+
+Technology: Robotics
+Purpose: Robotics is the science of designing, developing, and deploying machines that can perform or replicate human tasks with minimal human intervention. Robotics aims to improve efficiency, precision, and safety in a variety of applications by automating repetitive, dangerous, or complex tasks that are deemed impossible for humans alone to perform.
+Usage: Robots are widely used to manufacture or perform simple repetitive tasks in industries where work must be performed in demanding settings for humans.
+•	Education: Programmable robots are widely used to teach coding and robotics concepts like sensors, motors, and controllers. Programmable robots are more advanced compared to pre-built robots, and students must assemble and program them. These robots are equipped with a variety of sensors and actuators, enabling them to perform more complex tasks. 
+•	IT Industry: Robots can help automate IT tasks such as data extraction, report generation, and application testing, allowing businesses to optimize their operations and free up more time for employees/organizations to do other things.
+Example: Robotics has come into widespread use in real-world scenarios. As far as I can remember, these technologies have long been used as servers or ordering systems in fast food restaurants, as well as in simple household chores in a domestic setting.
+
+Technology: Artificial Intelligence (AI)
+Purpose: Artificial Intelligence can perceive environments, recognize objects, make decisions, solve problems, learn from experience, formulate examples and then incorporate them into machines or systems to simulate human intelligence.
+Usage: AI is used to provide personalized recommendations to people, based on their previous searches or other online behavior, as well as in automation, processing, and the likes.
+•	Education: AI systems can aid on tutoring students with the pre-existing knowledge and information incorporated to it to provide personalized support and instruction like Generative AI systems.
+•	IT Industry: AI ensures the timely and efficient creation of data backups, reducing the risk of human error and ensuring data integrity and security for organizations.
+Example: One of the best examples of AI is the Generative AI that we are all familiar with, which includes ChatGPT, Copilot, and Gemini. These applications have proven to be extremely useful for humans conducting research on unfamiliar topics. Just remember that using these kinds of things has limitations, and that users should set boundaries and not fully rely on them, regardless of their capabilities. 
+
+Technology: Internet of Things (IoT)
+Purpose: The Internet of Things has made it easier to automate mundane tasks, improve security systems, create wearable devices to improve health and wellness, and enhance connectivity resulting in improved communication. 
+Usage: IoT can range from simple "smart home" devices such as smart thermostats to wearables such as smartwatches and RFID-enabled clothing, as well as intricate industrial machinery and transportation systems that helps in making complex tasks easier to manage. 
+•	Education: IoT is used to design smart classrooms in which devices such as interactive whiteboards can be controlled remotely to create an optimal learning environment. Sensors can also track student participation and attendance.
+•	IT Industry: Companies use IoT connect their industrial machines to sensors and analytics platforms, allowing for real-time monitoring, predictive maintenance, and optimization of factory operations.
+Example: The simplest examples of IoT are those wearable techs such as smartwatches embedded with sensors that can help track our daily health and lifestyle resulting in a much healthier and livelier wellbeing.
+
+Technology: 5G Wireless Technology (5G Network)
+Purpose: 5G wireless technology poses higher data speeds, greater reliability, massive network capacity, increased availability, and reduced latency for a more uniform user experience to a wider audience.
+Usage: The use and benefits of 5G Technology is felt in a variety of fields and not just closeted to the education and It industry. It is an emerging technology that has been far more revolutionary than 4G networks because of the lower latency, high speeds, and support it provides to its users.
+•	Education: 5G technology has significantly improved the online learning experience by allowing real-time video streaming and online conferencing without excessive buffering and low to no latency for interactive educational tools that require fast and reliable data connection,
+•	IT Industry: With the help of 5G Technology, organizations and peoples in the IT industry can have access to higher and faster connectivity, reduced latency, and extended access due to the higher bandwidth that it offers resulting to increased collaboration and productivity.
+Example: 5G technology serves as an alternative type of network to provide data connection to still do things online such as video conferencing, researching, and the likes, particularly when unexpected problems with the absence of internet connectivity arise.
