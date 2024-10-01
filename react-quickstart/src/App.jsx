@@ -1,5 +1,6 @@
 import React from 'react';
 import AboutPage from './components/AboutPage';
+import Profile from './components/Profile';
 import './App.css'
 
 function MyButton() {
@@ -13,8 +14,9 @@ export default function MyApp() {
     <>
       <div>
         <h1>Welcome to My App !</h1>
-        <MyButton />
+        <MyButton /> {/* Kindly uncomment to see individual functionality */}
         <AboutPage />
+        <Profile />
       </div>
     </>
   );
