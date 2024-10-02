@@ -2,6 +2,7 @@ import React from 'react';
 import AboutPage from './components/AboutPage';
 import Profile from './components/Profile';
 import Login from './components/Login';
+import ShoppingList from './components/ShoppingList';
 import './App.css'
 
 function MyButton() {
@@ -19,8 +20,9 @@ export default function MyApp() {
         <MyButton />  // Kindly uncomment to see individual functionality 
         <AboutPage /> // Kindly uncomment to see individual functionality 
         <Profile />   // Kindly uncomment to see individual functionality 
-        */}
         <Login />
+        */}
+        <ShoppingList />
       </div>
     </>
   );
