@@ -6,8 +6,12 @@ import ShoppingList from './components/ShoppingList';
 import './App.css'
 
 function MyButton() {
+  function handleClick() {
+    alert('You clicked me!');
+  }
+
   return (
-    <button>I'm a Button</button>
+    <button onClick={handleClick}>I'm a Button</button>
   );
 }
 
@@ -16,13 +20,13 @@ export default function MyApp() {
     <>
       <div>
         <h1>Welcome to My App !</h1>
-        {/*
-        <MyButton />  // Kindly uncomment to see individual functionality 
+       
+        <MyButton />    {/* // Kindly uncomment to see individual functionality 
         <AboutPage /> // Kindly uncomment to see individual functionality 
         <Profile />   // Kindly uncomment to see individual functionality 
-        <Login />
+        <Login />     // Kindly uncomment to see individual functionality
+        <ShoppingList /> // Kindly uncomment to see individual functionality
         */}
-        <ShoppingList />
       </div>
     </>
   );
