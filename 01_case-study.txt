@@ -1,0 +1,32 @@
+Shaina Karillyn G. Pagarigan
+BSIS – 3
+Applications Development and Emerging Technologies 1 
+
+Assignment #7: Case Study
+Managing a Challenging Cross-Department Collaboration
+
+As a software manager, I oversee a development team that handles various projects. Recently, another department approached me with a request for a joint effort. They were seeking help from our software engineers to support their team in the Research and Development (R&D) department, as they were facing tight deadlines. The challenge was clear: the R&D department needed assistance to meet their target dates, and we had to step in and assist, despite the fact that there was a significant learning curve involved.
+Although the schedule was already very tight, we decided to lend our support to help them meet their goals. Despite the initial challenges, the collaboration showed promising progress. However, as we were nearing the end of the project and approaching the target deadline, one of my developers faced a personal family crisis, which unfortunately disrupted our progress and further jeopardised our ability to meet the deadline.
+
+Questions for Consideration:
+
+As a Manager: How would you handle the situation when a key team member faces a personal issue that affects the project timeline? What steps would you take to ensure the team stays on track, and how would you communicate with both the client and your team?
+
+As a manager, I would consider every feelings that my members feel, the recent situation may have caused some drawbacks in our project but their personal well-being is being important especially in those toughest times. We can solve the issue by reassigning available team members with the capability to continue on the project that was previously halted, assessing their skills and restructuring how our team can still deliver the deliverables with quality. As a manager, I will also inform the R&D Department about the situation and may negotiate about project deadline extensions and the likes.
+ 
+As a Developer: If you were the one facing a family emergency, how would you handle the situation to ensure that it doesn't negatively impact the project timeline? What actions would you take to manage your workload, communicate effectively with your manager, and ensure the project stays on course?
+
+Everyone expresses emotions differently, If I were a developer and is the one facing such situation, I would give my manager and team members a heads-up about my situation, emphasizing that I may cause some delays or such but I will do my best to still do and complete my assigned tasks in compliance to what was given to me. I would make use of time and task management applications or skills in order to still be a part of the efficient result of the project. Despite my situation, I aim not to cause such negative impacts on the project timeline and the project itself as it will no only add up to my problems but it will also hugely affect the team and work environment that I am a part of.
+
+
+What Could Have Been Done Better?: Reflect on how both the manager and the developer could have better anticipated potential risks and mitigated issues before they arose. What strategies might have helped avoid this situation or managed it more effectively?
+
+Risks are hard to anticipate, we may anticipate it at times but things does not always go on how we planned it to be. Making use of collaborative or project management/tasking tools would of be a great help in order to strategize on how the team can deliver projects effectively, communication is also a key in order to know and monitor the work of the team members.
+
+Reflection on the Manager:
+The manager, as the head/supervisor of the project should have made some backup/contingency plans on the potential risks/drawbacks/issues that the project may face before being delivered, the plan should have a detailed solution that is the exact or is close to on how we planned the problem to be resolved in order to save time to not cause delays in the project.
+The manager can also cultivate such programs that will build the teams strong bond and communication in order to be productive and always give the best results possible.
+
+Refection on the Manager:
+The developer, as one of the backbone of the project, may carry a lot of work that is hard to fill in when such situations happen. To minimize such effects on the project, having the developer have a detailed documentation on his/her accomplishments is a good way to keep track on the progress of the project. Through this, the reserve developer may have some overview on the project being made and won’t be stressed on how to continue the project with the same quality before the situation had happened.
+As what was mentioned above, communication is key and informing the managers of potential situations can alco be of great help in order to minimize the impacts on the project.
